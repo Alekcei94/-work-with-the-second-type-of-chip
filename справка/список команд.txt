@@ -1,0 +1,47 @@
+1 - main function
+основная функция работы 
+
+2 - Temperature reading
+чтение температуры
+
+3 - work with REZ
+настройка REZ
+
+4 - work with ADDRESS; !!!Do not use very carefully!!!
+настройка адреса
+
+5 - Coefficient calculation
+расчет коэффиценты для микросхемы, K и B
+
+6 - Check REZ
+проверка rez
+
+7 - Check ADDRESS
+проверка адреса
+
+8 - Write OTP
+записать память 256 байт
+
+9 - Form file
+прочитать все файлы с кодами и сформировать один файл
+
+10 - Read KOD in all chip
+прочитать температуру со всех микросхем в бинарном виде
+
+11 - init source (8.5V and 5V) and used fire
+работа с источниками yokogawa. Инициализация источников по напряжению. Так же запускает метод для проверки прозжига.
+Убедиться, что бы прозжиг
+
+12 - Write Enable 2
+запись enable 2, источник закоментирован. Пока что.
+
+13 - Read address (2 memory ) in one chip
+считать в файл все адреса из второй памяти. 
+
+14 - Read address in all chip and write file
+считывает все адреса микросхем и записывает их по файлам. 
+
+15 - Check address in chip 
+проверяет соответсвие поставленной микросхемы и адреса в файле
+
+0 - EXIT 
